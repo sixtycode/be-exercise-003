@@ -1,0 +1,142 @@
+[
+  {
+    "title": "auxiliary",
+    "nominal": "287.01",
+    "type": "income",
+    "category": "salary",
+    "id": "1"
+  },
+  {
+    "title": "withdrawal",
+    "nominal": "326.31",
+    "type": "income",
+    "category": "salary",
+    "id": "2"
+  },
+  {
+    "title": "Coupe",
+    "nominal": "991.21",
+    "type": "income",
+    "category": "salary",
+    "id": "3"
+  },
+  {
+    "title": "via",
+    "nominal": "85.94",
+    "type": "expense",
+    "category": "food",
+    "id": "4"
+  },
+  {
+    "title": "relationships",
+    "nominal": "338.13",
+    "type": "income",
+    "category": "salary",
+    "id": "5"
+  },
+  {
+    "title": "flaky",
+    "nominal": "669.26",
+    "type": "income",
+    "category": "salary",
+    "id": "6"
+  },
+  {
+    "title": "magenta",
+    "nominal": "383.63",
+    "type": "expense",
+    "category": "transport",
+    "id": "7"
+  },
+  {
+    "title": "deposit",
+    "nominal": "64.29",
+    "type": "expense",
+    "category": "food",
+    "id": "8"
+  },
+  {
+    "title": "project",
+    "nominal": "554.08",
+    "type": "income",
+    "category": "salary",
+    "id": "9"
+  },
+  {
+    "title": "anneal",
+    "nominal": "972.39",
+    "type": "income",
+    "category": "salary",
+    "id": "10"
+  },
+  {
+    "title": "Metal",
+    "nominal": "556.20",
+    "type": "income",
+    "category": "salary",
+    "id": "11"
+  },
+  {
+    "title": "North",
+    "nominal": "351.79",
+    "type": "expense",
+    "category": "transport",
+    "id": "12"
+  },
+  {
+    "title": "enable",
+    "nominal": "834.61",
+    "type": "income",
+    "category": "salary",
+    "id": "13"
+  },
+  {
+    "title": "North",
+    "nominal": "879.82",
+    "type": "income",
+    "category": "salary",
+    "id": "14"
+  },
+  {
+    "title": "flexibility",
+    "nominal": "292.03",
+    "type": "expense",
+    "category": "transport",
+    "id": "15"
+  },
+  {
+    "title": "ultimately",
+    "nominal": "952.67",
+    "type": "income",
+    "category": "salary",
+    "id": "16"
+  },
+  {
+    "title": "teal",
+    "nominal": "232.73",
+    "type": "expense",
+    "category": "transport",
+    "id": "17"
+  },
+  {
+    "title": "Bespoke",
+    "nominal": "620.22",
+    "type": "income",
+    "category": "salary",
+    "id": "18"
+  },
+  {
+    "title": "Refined",
+    "nominal": "771.23",
+    "type": "income",
+    "category": "salary",
+    "id": "19"
+  },
+  {
+    "title": "Shirt",
+    "nominal": "505.29",
+    "type": "income",
+    "category": "salary",
+    "id": "20"
+  }
+]
