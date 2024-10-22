@@ -15,7 +15,7 @@ app.use(express.json());
 // app.use(masukMiddleware);
 
 // route
-app.use("/user-management", userRoute);
+app.use("/users", userRoute);
 
 // error handling middleware
 app.use(errorMiddleware);

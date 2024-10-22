@@ -4,4 +4,4 @@ config({
   path: ".env",
 });
 
-export const { PORT } = process.env;
+export const { PORT, MOCK_API_URL } = process.env;
